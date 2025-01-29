@@ -5,7 +5,7 @@
 
 📝 **Some projects I've done to-date include:** developed several apps, PowerBI dashboards, Tableau dashboards, various websites, online maps, and automated flows for reporting and communication. 
 <br />
-⌨ **Programming languages I know:** Python, VBA, Processing, RPN, Java, JavaScript, SQL, MATLAB, VB net, etc. *(Learning new syntaxn and functions for a new language is enjoyable to me).* 
+⌨ **Programming languages I know:** Python, VBA, Processing, RPN, TypeScript, Java, JavaScript, SQL, MATLAB, VB net, etc. *(Learning new syntaxn and functions for a new language is enjoyable to me).* 
 <br />
 🌱 **I’m currently working on:** learning R syntax, getting Microsoft Certification for Data Analytics, building my GitHub portfolio, and a website to showcase projects.
 <br />
