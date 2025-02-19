@@ -7,6 +7,6 @@
 <br />
 ⌨ **Programming languages I know:** Python, VBA, Processing, RPN, TypeScript, Java, JavaScript, SQL, MATLAB, VB net, etc. *(Learning new syntaxn and functions for a new language is enjoyable to me).* 
 <br />
-🌱 **I’m currently working on:** learning R syntax, getting Microsoft Certification for Data Analytics, building my GitHub portfolio, and a website to showcase projects.
+🌱 **I’m currently working on:** Learning sympy for simulations, learning R syntax, getting Microsoft Certification for Data Analytics, building my GitHub portfolio, and a website to showcase projects.
 <br />
 📫 **How to reach me:** <shellbobell@live.ca>
